@@ -5,7 +5,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="theme-color" content="#fed300" />
-      <title>PRIME FREIGHT COURIER LOGISTICS| Logicstic Shipping Company
+      <title>XPO CARGO LOGISTICS| Logicstic Shipping Company
       </title>
       <!-- FAVICON FILES -->
       <link href="ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
@@ -36,7 +36,7 @@
                <h6 class="widget-title">CONTACT INFO</h6>
                <address class="address">
                   <!-- <p>+1 (850) 344 0 66<br> -->
-                  <a href="#">support@ship.crossbordercourierlogistics.com</a></p>
+                  <a href="#">support@xpocargologistics.com</a></p>
                </address>
                <h6 class="widget-title">FOLLOW US</h6>
                <ul class="social-media">
@@ -63,7 +63,7 @@
                <!-- end site-menu -->
             </div>
             <!-- end show-mobile -->
-            <small>© 2023 PRIME FREIGHT COURIER LOGISTICS 
+            <small>© 2023 XPO CARGO LOGISTICS 
             .com| Logicstic Shipping Company</small>
          </div>
          <!-- end inner -->
@@ -73,7 +73,7 @@
          <div class="container">
             <!-- <div class="phone">Call Us Now: <a href="#"> +1 (850) 344 0 66 </a></div> -->
             <!-- end phone -->
-            <div class="email"> Email: <a href="#">support@ship.crossbordercourierlogistics.com</a> </div>
+            <div class="email"> Email: <a href="#">support@xpocargologistics.com</a> </div>
             <!-- end email -->
             <div class="social-media">
                <span>Follow us</span>
@@ -209,7 +209,7 @@
                   <!-- <figure class="logo"> <img src="swiftcargotransit.com/logo4.png" alt="Image"> </figure> -->
                   <!-- <p>+1 (850) 344 0 66<br> -->
                   <br>
-                  <a href="#">support@ship.crossbordercourierlogistics.com</a></p>
+                  <a href="#">support@xpocargologistics.com</a></p>
                   <!-- <p>885 E. Fawn St.
                      Indio, CA 92201</p> -->
                </div>
@@ -233,7 +233,7 @@
                </div>
                <!-- end col-4 -->
                <div class="col-12">
-                  <div class="footer-bottom"> <span>© 2026 PRIME FREIGHT COURIER LOGISTICS | Logicstic Shipping Company</span> </div>
+                  <div class="footer-bottom"> <span>© 2026 XPO CARGO LOGISTICS | Logicstic Shipping Company</span> </div>
                   <!-- end footer-bottom -->
                </div>
                <!-- end col-12 -->

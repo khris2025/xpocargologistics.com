@@ -57,7 +57,7 @@
       <div class="row align-items-center no-gutters">
          <div class="col-lg-6">
             <div class="side-list">
-               <h2>PRIME FREIGHT COURIER LOGISTICS 
+               <h2>XPO CARGO LOGISTICS 
                   .com
                   Services Include:
                </h2>

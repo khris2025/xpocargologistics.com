@@ -52,7 +52,7 @@
             Air Freight Forwarding,
             Road Haulage.
           </h2>
-          <p>PRIME FREIGHT COURIER LOGISTICS  is a leading third party contract logistics company
+          <p>XPO CARGO LOGISTICS  is a leading third party contract logistics company
             based in the Midlands, United Kingdom. We specialise in providing
             supply-chain warehousing and transport services throughout the
             UK, Ireland and Continental Europe.

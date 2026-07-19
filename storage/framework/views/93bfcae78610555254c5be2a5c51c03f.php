@@ -192,7 +192,7 @@
          <div class="col-12">
             <div class="section-title">
                <figure><img src="<?php echo e(asset('assets/images/section-title-shape.png')); ?>" alt="Image"></figure>
-               <h2>PRIME FREIGHT COURIER LOGISTICS 
+               <h2>XPO CARGO LOGISTICS 
                   .com has grown from <br>
                   strength to strength
                </h2>
@@ -266,9 +266,9 @@
                <li>
                   <div class="history-box">
                      <div class="description">
-                        <h6>2012 PRIME FREIGHT COURIER LOGISTICS 
+                        <h6>2012 XPO CARGO LOGISTICS 
                            .com</h6>
-                        <p>In June 2012 PRIME FREIGHT COURIER LOGISTICS 
+                        <p>In June 2012 XPO CARGO LOGISTICS 
                            .com became
                            members of the WCA, the world’s largest and
                            most powerful network of independent

@@ -13,7 +13,7 @@
          </div>
          <!-- end col-12 -->
          <div class="col-lg-6">
-            <p>PRIME FREIGHT COURIER LOGISTICS .com, we believe the supplier-vendor relationship to be an
+            <p>XPO CARGO LOGISTICS .com, we believe the supplier-vendor relationship to be an
                important, strong and long term partnership. Both the client and
                the logistics partners will concentrate on their lead competencies
                and work closely together with the common aim to be a leader in
@@ -115,7 +115,7 @@
                <h2>Supply Chain
                   Solutions
                </h2>
-               <p>PRIME FREIGHT COURIER LOGISTICS .com, we’re passionate about helping our
+               <p>XPO CARGO LOGISTICS .com, we’re passionate about helping our
                   clients operate their supply chains more effectively.
                   To achieve this we design and implement
                   transformative solutions that are customised for
@@ -177,7 +177,7 @@
          <div class="col-lg-6">
             <div class="side-content light">
                <h2>Global Freight Forwarding</h2>
-               <p>PRIME FREIGHT COURIER LOGISTICS .com, we’re passionate about helping our
+               <p>XPO CARGO LOGISTICS .com, we’re passionate about helping our
                   clients operate their supply chains more effectively.
                   To achieve this we design and implement
                   transformative solutions that are customised for

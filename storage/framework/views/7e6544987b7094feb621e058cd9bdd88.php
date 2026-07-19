@@ -5,7 +5,7 @@
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <meta name="theme-color" content="#fed300" />
-      <title>PRIME FREIGHT COURIER LOGISTICS| Logicstic Shipping Company
+      <title>XPO CARGO LOGISTICS| Logicstic Shipping Company
       </title>
       <!-- FAVICON FILES -->
       <link href="ico/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
@@ -63,7 +63,7 @@
                <!-- end site-menu -->
             </div>
             <!-- end show-mobile -->
-            <small>© 2023 PRIME FREIGHT COURIER LOGISTICS 
+            <small>© 2023 XPO CARGO LOGISTICS 
             .com| Logicstic Shipping Company</small>
          </div>
          <!-- end inner -->
@@ -233,7 +233,7 @@
                </div>
                <!-- end col-4 -->
                <div class="col-12">
-                  <div class="footer-bottom"> <span>© 2025 PRIME FREIGHT COURIER LOGISTICS | Logicstic Shipping Company</span> </div>
+                  <div class="footer-bottom"> <span>© 2025 XPO CARGO LOGISTICS | Logicstic Shipping Company</span> </div>
                   <!-- end footer-bottom -->
                </div>
                <!-- end col-12 -->
